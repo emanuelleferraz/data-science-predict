@@ -18,7 +18,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/emanuelleferraz/data-science-predict
    cd seu-repositorio
 
 2. Crie um ambiente virtual (opcional):
