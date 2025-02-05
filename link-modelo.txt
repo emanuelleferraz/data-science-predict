@@ -1,0 +1,4 @@
+######## LINK PARA BAIXAR O MODELO ########
+
+Como o GitHub só aceita arquivos com até 50mb, e o modelo exportado é maior que isso, segue abaixo o link para baixar o modelo.pkl:
+https://drive.google.com/file/d/15UdtySYvDfHnpLxKx4pYlGFaryqkJEWc/view?usp=drive_link
